@@ -1,0 +1,35 @@
+Day_01
+------
+Python_programming_language
+---------------------------
+
+1. Pthon was created by " GUIDO_VAN_ROSSUM "
+   D.O.B:- " 31 JAN 1956 ( 66 yrs )
+   Place:-   He is from " DUTCH ".
+
+2. Why it was named as python?
+   so the name python came from a T.V serial called monty's python flying circus, from " 1969, comedy,4,season."
+
+3. python was implemented in which year?
+   python was first implemented in the year " december 1989 ".
+
+4. Following python version got released in !
+   python/ python 1:- " 20th feb 1991 ".
+           python 2:- " 16th oct 2000 ".
+           python 3:- " 3rd dec 2008 ".
+   PSF:- python software foundation on march " 6th 2001 ".
+    C :- 1972
+   JAVA:-1995
+   PYTHON:-1991
+
+5.  What is the offical website  for downloading the pytho software.
+   
+   " python.org "
+   " org:-organizaion"
+   " word file extension---> .DOCX "
+   " excel file extension---> .xisx (or) .CSV "
+   " csv --> coma seperated values "
+   " c language extension ---> .c "
+   " java ---> .java "
+   " java script --> .JS "
+   " 
